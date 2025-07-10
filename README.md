@@ -19,6 +19,9 @@
 - Protocol
  - Protocolo
  - Conjunto de regras
+- Methods HTTP (Verbos): Get, Post, Patch/Put, Delete
+- Headers (cabeçalhos): Instruções/Informações extras para cada chamada
+
 
 # URL
 - Uniform

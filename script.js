@@ -5,7 +5,22 @@ const askButton = document.getElementById('askButton')
 const aiResponse = document.getElementById('aiResponse')
 const form = document.getElementById('form')
 
-const perguntarIA = async () => {
+const perguntarIA = async (question, game, apiKey) => {
+ const model = 'gemini-2.0-flash'
+ const geminiURL = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`
+ const pergunta = ``
+ 
+ const contents = [{
+    parts:[{
+        text: pergunta
+    }]
+ }]
+
+// Chamda API
+
+const response = await fetch (geminiURL, {
+    method: 'POST',
+})
 }
 
 const enviarFormulario = (event) => {
@@ -26,6 +41,7 @@ askButton.classList.add('loading')
 
 try{
     // Perguntar para a IA
+    perguntarIA(question, game, apiKey)
 }catch (error){
     console.log ('Erro: ', error)
 } finally{
