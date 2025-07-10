@@ -83,3 +83,39 @@ rocketseat.com.br (domínio)
                 3rem auto
                 1rem 2rem 3rem auto (somente o baixo vai calcular para ficar dividido igual)
     
+# JS
+- Linguagem de programação
+- Browsers
+- Input- Process - Output
+- Variáveis
+- Funcion
+ - Agrupamento e reuso de código
+ - Sequencia lógica
+ - Saída
+- Gemini (AI): esperar uma resposta
+- Mexer no meu navegador
+- Estrutura de dados
+- Estrutra de decisão
+- Algoritmo: sequência de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica (Pensamento computacional)
+ - Abstração
+ - Decomposição
+ - Algoritmo
+ - Reconhecimento de padrão
+- Tipos de dados
+ - Number (numeros)
+ - String (textos) (" ",' ', `` )
+ - Boolean: true/false
+ - Objects
+ - ...
+
+ # DOM
+ - Document
+ - Object
+ - Model
+
+ # API
+- Aplication
+- Programming
+- Interface
+- JSON: JavaScript Object Notation

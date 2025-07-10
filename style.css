@@ -102,9 +102,29 @@ button{
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.12px;
+
+    transition: all 0.3s;
 }
 
 button:hover {
     cursor: pointer;
     transform: translateY(-2px); /* move o botão para cima */
+    box-shadow: 0 5px 1rem rgba(255, 248, 107,0.2);
+}
+button:disabled {
+    transition: none; /* remove a transição */
+    transform: translate(0); /* não move o botão */
+    box-shadow: initial; /* remove a sombra */
+    cursor: not-allowed; /* muda o cursor para não permitido */
+    color: black;
+}
+
+.loading {
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    50%{
+        opacity: 0.5;
+    }
 }
