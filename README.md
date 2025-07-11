@@ -8,13 +8,20 @@ Interface web que usa inteligência artificial para responder perguntas sobre jo
 - Envio de perguntas personalizadas.
 - Conexão com a API Gemini (Google AI).
 - Respostas diretas, rápidas e com formatação em Markdown.
-- Design estilizado com animações CSS.  
+- Design estilizado com animações CSS.
+
+ ## 💻 Tecnologias Utilizadas
+
+- HTML5.
+- CSS3.
+- JavaScript.
+- Gemini AI (API do Google).
   
 ## 🚀 Como Utilizar
 
 1. Abra o arquivo `index.html` no seu navegador.
 
-2. Insira sua **API Key do Gemini** no campo apropriado.
+2. Insira sua **API Key do Gemini** no campo apropriado.  
    👉 Você pode gerar a chave aqui: [https://aistudio.google.com/apikey?hl=pt-br](https://aistudio.google.com/apikey?hl=pt-br).
 
 3. Escolha um jogo da lista.
@@ -22,19 +29,11 @@ Interface web que usa inteligência artificial para responder perguntas sobre jo
 4. Escreva sua pergunta (ex: "Melhor build para ADC...").
 
 5. Clique no botão **"Perguntar"** e aguarde a resposta da IA.
-   
 
 
 ## 📸 Funcionamento
 
 ![Demonstração do assistente em uso](./assets/NLW_demo.gif)
-
-## 💻 Tecnologias Utilizadas
-
-- HTML5.
-- CSS3.
-- JavaScript.
-- Gemini AI (API do Google).
 
   
 
