@@ -21,7 +21,7 @@ Interface web que usa inteligência artificial para responder perguntas sobre jo
 
 1. Abra o arquivo `index.html` no seu navegador.
 
-2. Insira sua **API Key do Gemini** no campo apropriado.
+2. Insira sua **API Key do Gemini** no campo apropriado.  
    👉 Você pode gerar a chave aqui: [https://aistudio.google.com/apikey?hl=pt-br](https://aistudio.google.com/apikey?hl=pt-br).
 
 3. Escolha um jogo da lista.
