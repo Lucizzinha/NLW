@@ -27,7 +27,7 @@ Interface web que usa inteligência artificial para responder perguntas sobre jo
 
 ## 📸 Funcionamento
 
----
+![Demonstração do assistente em uso](./assets/NLW_demo.gif)
 
 ## 💻 Tecnologias Utilizadas
 
