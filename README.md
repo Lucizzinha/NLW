@@ -184,7 +184,7 @@ A seguir, estão os principais conceitos que estudei e apliquei ao longo do dese
 - Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra
 - Melhor contexto
 
-# Engenharia de prompet
+# Engenharia de prompt
 - **One shot:** uma única pergunta sem muito contexto
 - **Few shot:** é apresentado exemplos de que se espera
 - **Chain of Thought:** Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
